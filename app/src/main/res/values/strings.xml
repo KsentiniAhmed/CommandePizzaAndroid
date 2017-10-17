@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pizza Bnina</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="app_id">226192290871422</string>
+
+    <string name="about">\nEvolving from a traditional family recipe, 14th Street Pizza Co. has come a long way. It was launched on 14th February 2011 and has established a strong identity in the pizza delivery business in Pakistan in only a year - so much so, that it was hard to keep up with the thriving demand when it was launched. That\'s when the real test began, but we faced the challenge with gusto and were soon back on the table with a bigger team and a bigger kitchen. The introducer of the 20-inch pizza in Pakistan, 14th Street Pizza Co. has grown from being a corner pizza delivery place in Karachi to one of the most recognized pizza delivery places, operating branches at 5 prime locations of Karachi: Khayaban-e-Shahbaz, Khayaban-e-Nishat, KDA, SMR, North Nazimabad; with plans of expanding to other cities and countries soon. \n\n\nThe first thing you notice about our pizza is the size. But that\'s just not it. At 14th Street Pizza Co. we use the freshest, finest ingredients along with the most delectable homemade sauces on a New York style thin crust to give you fuller taste and an unforgettable flavor. \n\n\nOur motto is to use crust to give you fuller taste and an unforgettable flavor. Our motto is to use premium quality ingredients to give you a pizza that not only looks and tastes great but is up to the highest standards of freshness and quality. Our homemade pizza sauces, available in mild, hot and extra hot, give you the choice to make your pizza the way you like it, while our fresh toppings and finest mozzarella cheese give your pizza a flavorful zing you will never forget. \n\n\nAt 14th Street Pizza Co. we believe in providing our customers with an exceptional customer service. We believe that our customers are our driving force and would like to make sure that they are 100% satisfied with our products. A passion for pizza and an unending devotion to keep delivering the biggest, yummiest pizza in town, fuelled by the love, encouragement and feedback of our fans, gives 14th Street Pizza Co. the power to expand beyond belief.\n\n</string>
+
+
+    <string-array name="quantities">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="order_deals">
+        <item>Slice Deal</item>
+        <item>Double Slice Deal</item>
+        <item>Midnight Deal 1</item>
+        <item>Midnight Deal 2</item>
+    </string-array>
+
+    <string-array name="order_sauces">
+        <item>Mild</item>
+        <item>Hot</item>
+        <item>Extra Hot</item>
+    </string-array>
+
+    <string-array name="order_flavors">
+        <item>neptune (thon)</item>
+        <item>vegetarienne (phelphel) </item>
+        <item>papparoni (tomates)</item>
+        <item>chicken supreme (viandes hachees , jambon)</item>
+        <item>hot and spicy (viandes hachees)</item>
+        <item>4 fromages</item>
+    </string-array>
+
+    <string-array name="pattes">
+        <item>fine</item>
+        <item>epaisse</item>
+        <item>cheese crust</item>
+    </string-array>
+
+    <string-array name="sauce">
+        <item>Extra Hot</item>
+        <item>Hot</item>
+        <item>Mild</item>
+
+    </string-array>
+
+    <string-array name="menu_sweets">
+        <item>Chocolate Cake (Full)</item>
+        <item>Chocolate Cake (Slice)</item>
+    </string-array>
+
+    <string-array name="menu_sidelines">
+        <item>Cheesy Bread</item>
+        <item>Chicken Wings (BBQ)</item>
+        <item>Chicken Wings (Crispy)</item>
+        <item>Chicken Wings (Spicy)</item>
+        <item>Chicky Bites (NonSpicy)</item>
+        <item>Chicky Bites (Spicy)</item>
+        <item>Garlic Bread</item>
+        <item>Potato Skins</item>
+        <item>Potato Wedges</item>
+    </string-array>
+
+    <string-array name="menu_drinks">
+        <item>Apple Juice - Rs 60</item>
+        <item>Coke 1.5L - Rs 100</item>
+        <item>Coke 500ml - Rs 60</item>
+        <item>Diet Coke 1.5L - Rs 100</item>
+        <item>Diet Coke 500ml - Rs 65</item>
+        <item>Fanta 1.5L - Rs 100</item>
+        <item>Fanta 500ml - Rs 60</item>
+        <item>Mango Juice - Rs 60</item>
+        <item>Minute Maid Orange - Rs 60</item>
+        <item>Minute Maid Tropical - Rs 60</item>
+        <item>Orange Juice - Rs 60</item>
+        <item>Peach Juice - Rs 60</item>
+        <item>Pineapple Juice - Rs 60</item>
+        <item>Red Bull - Rs 175</item>
+        <item>Sprite 1.5L - Rs 100</item>
+        <item>Sprite 500ml - Rs 60</item>
+        <item>Sprite Zero 1.5L - Rs 100</item>
+        <item>Water (500ml) - Rs 40</item>
+    </string-array>
+
+</resources>
